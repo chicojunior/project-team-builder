@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "projects": {
-    "project-team-builder": "apps/project-team-builder",
-    "project-team-builder-e2e": "apps/project-team-builder-e2e"
-  }
-}
